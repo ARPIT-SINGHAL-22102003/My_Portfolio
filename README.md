@@ -22,14 +22,3 @@ This is my **personal portfolio website**, built with HTML, CSS, and JavaScript.
 ## 🚀 Live Preview
 
 👉 [Click here to view the live site](https://arpitsinghal.vercel.app/)
-
-## 📸 Screenshots
-
-*`![landing page](https://drive.google.com/file/d/1Fqg8h4SuCeGUrOLis4oXEttO12709HNk/view?usp=sharing)`*
-
-## 📂 How to Use / Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/portfolio-site.git
