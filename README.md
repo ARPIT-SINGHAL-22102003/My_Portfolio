@@ -21,8 +21,7 @@ This is my **personal portfolio website**, built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Preview
 
-👉 [Click here to view the live site](https://yourusername.github.io/portfolio-site)  
-*(Replace with your actual deployed link)*
+👉 [Click here to view the live site](https://arpitsinghal.vercel.app/)
 
 ## 📸 Screenshots
 
