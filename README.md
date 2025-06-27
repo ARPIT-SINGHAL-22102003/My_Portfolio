@@ -16,8 +16,7 @@ This is my **personal portfolio website**, built with HTML, CSS, and JavaScript.
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **[Optional] Animations**: ScrollReveal / AOS (if used)
-- **Deployment**: GitHub Pages / Netlify / Vercel *(mention your choice below)*
+- **Deployment**: Vercel 
 
 ## 🚀 Live Preview
 
