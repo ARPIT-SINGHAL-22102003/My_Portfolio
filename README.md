@@ -25,7 +25,7 @@ This is my **personal portfolio website**, built with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
 
-*(Add screenshots here if desired. Use `![Alt Text](image-url)` syntax.)*
+*`![landing page](https://drive.google.com/file/d/1Fqg8h4SuCeGUrOLis4oXEttO12709HNk/view?usp=sharing)`*
 
 ## 📂 How to Use / Run Locally
 
