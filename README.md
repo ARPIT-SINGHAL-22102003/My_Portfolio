@@ -16,7 +16,7 @@ This is my **personal portfolio website**, built with HTML, CSS, and JavaScript.
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **Deployment**: Vercel 
+- **Deployment**: AWS S3   
 
 ## 🚀 Live Preview
 
